@@ -9,6 +9,10 @@ public class sample {
 		System.out.println("bhavanibhavani  bhavani");
 		System.out.println("nbfb");
 		System.out.println("bhavanibhavani  bhavani");
+		System.out.println("nbfb");
+		System.out.println("bhavanibhavani  bhavani");
+		System.out.println("nbfb");
+		System.out.println("bhavanibhavani  bhavani ");
 	}
 
 }
